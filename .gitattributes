@@ -1,0 +1,17 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-kpv.kpv.lexc -text
+/apertium-kpv.kpv.rlx -text
+/apertium-kpv.kpv.twol -text
+/apertium-kpv.pc.in -text
+/apertium-kpv.post-kpv.dix -text
+/autogen.sh -text
+/configure.ac -text
+corpus/kpv.tagged -text
+/kpv.prob -text svneol=unset#unset
+/modes.xml -text

@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-kpv
+
+Name: apertium-kpv
+Description: Finite-state morphological transducer and constraint grammar for kpv 
+Version: @VERSION@
+
