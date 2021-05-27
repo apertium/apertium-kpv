@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium kpv], [0.1.0], [apertium-stuff@lists.sourceforge.net], [apertium-kpv], [http://wiki.apertium.org/wiki/Apertium-kpv])
+AC_INIT([Apertium kpv], [0.1.0], [apertium-stuff@lists.sourceforge.net], [apertium-kpv], [https://wiki.apertium.org/wiki/Apertium-kpv])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
